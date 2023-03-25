@@ -1,0 +1,2 @@
+# JojoDiscordTheme
+Polnareff discord theme
